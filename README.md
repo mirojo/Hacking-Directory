@@ -7,5 +7,5 @@ Si quieres que tu blog figure en esta lista mandame un correo a mirojo.84@gmail.
 
 ##Blogs existentes
 
-(0verl0ad Labs)[http://www.0verl0ad.net]
+http://www.0verl0ad.net
 

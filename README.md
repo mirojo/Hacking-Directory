@@ -44,46 +44,47 @@ http://kinomakino.blogspot.com
 
 https://www.dragonjar.org/blog
 
-https://community.rapid7.com/community/metasploit/blog
-
-http://www.opensecurity.es
-
 http://www.pcihispano.com
 
-http://www.pentester.es
-
 http://blog.portswigger.net
-
-http://www.room362.com
-
-http://rootbyte.blogspot.com
-
-http://blog.s21sec.com
-
-http://s3lab.deusto.es/es
 
 http://seclists.org
 
 http://www.securityartwork.es
 
-http://www.securitybydefault.com
+https://blog.enthec.com/
 
 http://blog.segu-info.com.ar
 
-http://sirdarckcat.blogspot.com.es/
-
 http://www.sniferl4bs.com
-
-http://www.statexblog.com
 
 http://taosecurity.blogspot.com
 
 http://www.elladodelmal.com
 
-http://www.enelpc.com
-
 http://www.antrax-labs.org
 
+http://www.effecthacking.com/
+
+https://gbhackers.com/
+
+https://security.googleblog.com/
+
+https://www.helpnetsecurity.com/
+
+https://www.securityartwork.es/en/
+
+http://securityaffairs.co/wordpress/
+
+https://thehackernews.com/
+
+https://www.welivesecurity.com/
+
+
+
 ---
+##Foros existentes
+
+https://comunidad.dragonjar.info/
 
 

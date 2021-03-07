@@ -8,7 +8,6 @@ Para más contenido sobre hacking sigueme en mi canal de Youtube:
 
 Existen blogs tanto en inglés como castellano.
 
-Si quieres que tu blog figure en esta lista mandame un correo a mirojo.84@gmail.com y se revisará para agregarlo en próximas revisiones.
 
 ## Blogs existentes
 

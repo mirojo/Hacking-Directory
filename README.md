@@ -84,7 +84,6 @@ https://securityintelligence.com/news/
 
 https://threatpost.com/
 
----
 ## Foros existentes
 
 https://comunidad.dragonjar.info/
@@ -104,16 +103,14 @@ https://www.hacktoday.net/
 https://www.mpgh.net/
 
 
----
-# Conferencias y eventos
+## Conferencias y eventos
 
 https://infocon.org/cons/
 
 https://infocondb.org/
 
 
----
-# Grupos Telegram
+## Grupos Telegram
 
 https://t.me/hacking_group_channel
 

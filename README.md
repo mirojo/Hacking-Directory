@@ -8,13 +8,7 @@ Si quieres que tu blog figure en esta lista mandame un correo a mirojo.84@gmail.
 
 ##Blogs existentes
 
-http://www.0verl0ad.net
-
 http://www.acampos.net
-
-http://seguridad-de-la-informacion.blogspot.com
-
-http://blog.gdssecurity.com/labs/
 
 http://informaticayseguridad.blogspot.com
 
@@ -22,15 +16,7 @@ http://blogs.protegerse.com/laboratorio
 
 http://blog.elhacker.net
 
-http://laboratorio.blogs.hispasec.com
-
-http://breakingmalware.com
-
-http://carnal0wnage.attackresearch.com
-
-https://cl0udswxsequre.wordpress.com
-
-http://conexioninversa.blogspot.com
+https://unaaldia.hispasec.com/
 
 http://seguridad-informacion.blogspot.com
 
@@ -42,35 +28,17 @@ http://www.darknet.org.uk
 
 http://blog.didierstevens.com
 
-http://translate.wooyun.io
-
-http://ensaladadebits.blogspot.com
-
 http://www.flu-project.com
 
 http://globbsecurity.com
 
-http://www.gr2dest.org
-
-http://www.gurudelainformatica.es
-
 http://blog.underc0de.org
-
-http://hacking-etico.com
 
 http://www.hackplayers.com
 
-http://www.sec-track.com
-
-https://www.infospyware.com
-
 http://kinomakino.blogspot.com
 
-http://feeds.feedburner.com/IrongeeksSecuritySite
-
-http://www.kriptopolis.com
-
-http://www.dragonjar.org
+https://www.dragonjar.org/blog
 
 https://community.rapid7.com/community/metasploit/blog
 
@@ -111,4 +79,7 @@ http://www.elladodelmal.com
 http://www.enelpc.com
 
 http://www.antrax-labs.org
+
+---
+
 

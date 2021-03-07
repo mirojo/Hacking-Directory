@@ -10,7 +10,7 @@ Existen blogs tanto en inglés como castellano.
 
 Si quieres que tu blog figure en esta lista mandame un correo a mirojo.84@gmail.com y se revisará para agregarlo en próximas revisiones.
 
-##Blogs existentes
+## Blogs existentes
 
 http://www.acampos.net
 
@@ -85,7 +85,7 @@ https://securityintelligence.com/news/
 https://threatpost.com/
 
 ---
-##Foros existentes
+## Foros existentes
 
 https://comunidad.dragonjar.info/
 
@@ -105,7 +105,7 @@ https://www.mpgh.net/
 
 
 ---
-#Conferencias y eventos
+# Conferencias y eventos
 
 https://infocon.org/cons/
 
@@ -113,7 +113,7 @@ https://infocondb.org/
 
 
 ---
-#Grupos Telegram
+# Grupos Telegram
 
 https://t.me/hacking_group_channel
 

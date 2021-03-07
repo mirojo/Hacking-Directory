@@ -80,11 +80,44 @@ https://thehackernews.com/
 
 https://www.welivesecurity.com/
 
+https://securityintelligence.com/news/
 
+https://threatpost.com/
 
 ---
 ##Foros existentes
 
 https://comunidad.dragonjar.info/
+
+https://0x00sec.org/
+
+https://forum.antichat.ru/
+
+https://codeby.net/
+
+https://greysec.net/
+
+https://hackforums.net/
+
+https://www.hacktoday.net/
+
+https://www.mpgh.net/
+
+
+---
+#Conferencias y eventos
+
+https://infocon.org/cons/
+
+https://infocondb.org/
+
+
+---
+#Grupos Telegram
+
+https://t.me/hacking_group_channel
+
+
+
 
 

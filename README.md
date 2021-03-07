@@ -1,6 +1,10 @@
 # HackingBlogs
 
-Aquí se irá subiendo el archivo de exportación del lector RSS FeedReader con los blogs de hacking y seguridad de interés.
+Para poder seguir todos estos blogs y elementos se recomienda el uso de programas como feedreader.com así solo verás los nuevos posts diarios.
+
+Para más contenido sobre hacking sigueme en mi canal de Youtube:
+
+* https://www.youtube.com/channel/UCu_vC86tswfu5XITDV4Ex4Q
 
 Existen blogs tanto en inglés como castellano.
 
